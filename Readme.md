@@ -3,7 +3,7 @@
 
 Я звик ще з часів PC користуватися [типографською розкладкою Іллі Бірмана](https://ilyabirman.ru/projects/typography-layout/), вона зручніша за маківську. Але постійно дратувало тримати три розкладки і перемикатися між ними.
 
-[Завантажити](https://github.com/alexkolodko/UA-RU-Typography-Keyboard-Layout/raw/master/Layouts/1.3.2/Install%20UA-RU-Typo%20Layout%201.3.2.app.zip)
+[Завантажити](https://github.com/alexkolodko/UA-RU-Typography-Keyboard-Layout/raw/dcce2c981fe350ab344343f7cea940d3403ff51b/Layouts/1.3.2/Install%20UA-RU-Typo%20Layout%201.3.2.zip)
 
 # Як працює розкладка
 Щоб не перемикати розкладки, вирішив об'єднати типографську розкладку і властивості маківської розкладки.
